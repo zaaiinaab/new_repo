@@ -8,5 +8,9 @@
 </head>
 <body>
     <h1>Login Page</h1>
+    <form action="" method="post">
+        <label for="">Email</label>
+        <input type="text">
+    </form>
 </body>
 </html>
